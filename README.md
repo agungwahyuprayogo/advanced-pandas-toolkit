@@ -10,7 +10,7 @@ Repo ini adalah dokumentasi teknis mendalam mengenai penggunaan library **Pandas
 - **New Functionality:** Eksplorasi performa Pandas 2.0 dengan *backend* pyarrow.
 
 ## 📂 Featured Notebook
-Daftar materi lengkap dapat dilihat di: [Latihan Pandas Python.ipynb](./Latihan Pandas Python.ipynb)
+Daftar materi lengkap dapat dilihat di: [Data_Wrangling_with_Pandas.ipynb](./Data_Wrangling_with_Pandas.ipynb)
 
 ## 🛠️ Tech Stack
 - **Python** (Core Language)
