@@ -1,6 +1,6 @@
 # 🐼 Mastery of Python Pandas for Data Science
 
-Repo ini adalah dokumentasi teknis mendalam mengenai penggunaan library **Pandas** untuk proses *Data Wrangling* dan *Exploratory Data Analysis (EDA)*. Di sini saya membedah fungsionalitas Pandas mulai dari manipulasi dasar hingga fitur terbaru di versi 2.0.
+Repository ini berisi dokumentasi proses pembersihan dan pengolahan data menggunakan Pandas, mencakup handling missing values, pemahaman statistik deskriptif, dan manipulasi struktur data agar siap untuk tahap analisis.
 
 ## 🚀 Key Technical Highlights
 - **Data Ingestion:** Loading data dari berbagai format (CSV, Excel, Parquet, dll).
